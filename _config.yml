@@ -1,0 +1,47 @@
+---
+title: Space Engineer
+timezone: Europe/Budapest
+collections:
+  about:
+    title: About
+    output: false
+  contact:
+    title: Contact
+    output: false
+  gallery:
+    title: Gallery
+    output: false
+  menu:
+    title: Menu
+    output: false
+  posts:
+    title: Posts
+    output: true
+  publication:
+    title: Publication
+    output: false
+  resume:
+    title: Resume
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+author: Islam Mansour
+baseurl: 
+description: "{{ site.author }} academic webpage Write an awesome description for
+  your new site here. You can edit this line in _config.yml. It will appear in your
+  document head meta (for Google search results) and in your feed.xml site description.\n"
+email: your-email@domain.com
+encoding: utf-8
+image_path: "/img/islam_mansour-4.jpg"
+keywords: 
+markdown: kramdown
+name: Islam
+url: http://yourdomain.com
+url_cv: "/mansour.pdf"
+twitter_username: r3bl_
+github_username: aleksandar-todorovic
+linkedin_username: aleksandartodorovic
+google_plus_username: AleksandarTodorovićr3bl
+facebook_username: aleksandar.todorovic.r3bl
+dribbble_username: 
