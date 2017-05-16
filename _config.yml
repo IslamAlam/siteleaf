@@ -11,9 +11,6 @@ collections:
   gallery:
     title: Gallery
     output: false
-  menu:
-    title: Menu
-    output: false
   posts:
     title: Posts
     output: true
